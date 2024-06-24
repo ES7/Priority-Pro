@@ -5,3 +5,4 @@ This project involves developing a **Streamlit** application that takes an **Exc
 * The **priority column** is calculated based on the impact and effort values, with higher priority given to items with high impact and low effort.
 
 Overall, the project aims to streamline the analysis of feedback data and prioritize actions based on their impact and effort.
+![](output.png)
